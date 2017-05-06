@@ -187,11 +187,12 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright 2017 Tieto Finland Oyj, ODA - Oirearviohack-team
-inka.luhtanen@tieto.com
-timo.salmisaari@tieto.com
-teemu.tynjala@tieto.com
-jarmo.laine@tieto.com
+   Copyright 2017 Tieto Finland Oyj,
+   ODA - Oirearviohack-team who developed APUNI.fi -solution were:
+   inka.luhtanen@tieto.com
+   timo.salmisaari@tieto.com
+   teemu.tynjala@tieto.com
+   jarmo.laine@tieto.com
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
